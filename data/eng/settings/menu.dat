@@ -1,0 +1,137 @@
+#0    **** MAIN ****
+Game Center               /sys/game_center
+Demos              >      /@1
+Graphics           >      /@3
+Multimedia         >      /@4
+Emulators          >      /@18
+Development        >      /@5
+System             >      /@7
+Data processing    >      /@11
+Network            >      /@12
+Other              >      /@15
+Help                      /sys/docpack
+Run application           /sys/run
+Shutdown                  /sys/end
+#1    **** DEMOS ****
+3D                 >      /@2
+Circle                    /sys/demos/circle
+Fractal                   /sys/demos/tinyfrac
+Color demo                /sys/demos/colorref
+Eyes                      /sys/demos/eyes
+Tube                      /sys/demos/tube
+Plasma                    /sys/demos/plasma
+Moveback                  /sys/demos/movback
+Life                      /sys/demos/life2
+TranTest                  /sys/demos/trantest
+WEB                       /sys/demos/web
+FireWork                  /sys/demos/firework
+UnvWater                  /sys/demos/unvwater
+#2  **** 3D demos ****
+ScreenSaver               /sys/3d/crownscr
+3D-labyrinth              /sys/3d/free3d04
+Heart                     /sys/3d/3dsheart
+View3DS                   /sys/3d/view3ds
+CubeLine                  /sys/3d/cubeline
+Gears                     /sys/3d/gears
+3D-waved area             /sys/3d/3dwav
+#3   **** GRAPHICS ****
+Image viewer KIV          /sys/media/kiv
+Image viewer zSea         /KolibriOS/media/zsea/zsea
+Animage                   /sys/media/animage
+Image Filtering           /sys/media/imgf/imgf
+Palitra                   /sys/media/palitra
+#4   **** MULTIMEDIA ****
+Pixie MP3 Player          /sys/media/pixie/pixie
+Fplay - video             /KolibriOS/media/fplay-full
+MidAMP                    /sys/media/midamp
+#5    **** PROGRAMMING ****
+Examples           >      /@6
+Archiver KPack            /sys/kpack
+Flat Assembler            /sys/develop/fasm
+Debug Board               /sys/develop/board
+Debugger                  /sys/develop/mtdbg
+Hex2Dec2Bin               /sys/develop/h2d2b
+ASCII-codes               /sys/develop/keyascii
+SCAN-codes                /sys/develop/scancode
+#6    **** EXAMPLES ****
+Threads                   /sys/develop/thread
+Color slider              /sys/demos/cslide
+Console example 1         /sys/develop/testcon2
+Console example 2         /sys/develop/test_gets
+Message Boxes example     /sys/demos/use_mb
+#7    **** SYSTEM ****
+Settings           >      /@8
+System sensors     >      /@9
+Work with files    >      /@10
+Testing            >      /@16
+Accessibility opt. >      /@17
+Debug board               /sys/develop/board
+Terminal                  /sys/terminal
+#8    **** SETTINGS ****
+Devices                   /sys/setup
+Background generator      /sys/media/palitra
+Colors & Skin             /sys/desktop
+Hot keys                  /sys/mykey
+Video mode for ATI        /sys/vmode
+#9    **** SYSTEM SENSORS ****
+Process manager           /sys/cpu
+PCI devices               /sys/pcidev
+CPUID                     /sys/cpuid
+Ghost Monitor             /sys/gmon
+K. Bus disconnected       /sys/kbd
+HDD informer              /sys/hdd_info
+#10  **** WORK WITH FILES ****
+KFAR                      /sys/File Managers/kfar
+KFM                       /sys/File Managers/kfm
+Eolite                    /sys/File Managers/Eolite
+Virtual disks             /sys/tmpdisk
+SHELL console             /sys/shell
+Save RD image             /sys/rdsave
+#11 **** DATA PROCESSING ****
+Calculator                /sys/calc
+Tinypad                   /sys/tinypad
+TextEdit                  /sys/develop/t_edit
+Table Processor           /sys/table
+Graph builder             /sys/graph
+Hex-Editor                /sys/develop/heed
+#12    **** NET ****
+Servers            >      /@13
+Clients            >      /@14
+Network devices           /sys/network/netcfg
+Network status            /sys/network/netstat
+#13    **** SERVERS ****
+FTP daemon                /sys/network/ftpd
+#14   **** CLIENTS ****
+IRC client                /sys/network/ircc
+FTP client                /sys/network/ftpc
+TFTP client               /sys/network/tftpc
+Ping                      /sys/network/ping
+Telnet client             /sys/network/telnet
+Synergy client            /sys/network/synergyc
+DNS lookup                /sys/network/nslookup
+Internet downloader       /sys/network/downloader
+Text-based browser        /sys/network/webview
+#15    **** OTHER ****
+Analogue clock            /sys/demos/aclock
+Binary clock              /sys/demos/bcdclk
+Timer                     /sys/demos/timer
+ScrShoot                  /sys/scrshoot
+Calendar                  /sys/calendar
+RTF reader                /sys/rtfread
+#16    **** SYSTEM TESTS ****
+Protection test           /sys/test
+Monitor test              /sys/disptest
+Test graphics speed       /sys/mgb
+FSPEED speed of FS        /sys/fspeed
+#17    **** SYSTEM SPECIAL ****
+Screen magnifier          /sys/magnify
+Screen keyboard           /sys/zkey
+Character table           /sys/ASCIIVju
+#18    **** EMULATORS ****
+DOSBox DOS Emulator       /KolibriOS/emul/DosBox/dosbox
+e80 (ZX Spectrum)         /KolibriOS/emul/e80/e80
+FCE Ultra - NES           /KolibriOS/emul/fceu/fce
+Gameboy Color             /KolibriOS/emul/gameboy
+ScummVM (adventure)       /KolibriOS/emul/scummvm
+ZSNES Super Nintendo      /KolibriOS/emul/zsnes
+##
