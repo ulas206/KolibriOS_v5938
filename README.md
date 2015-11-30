@@ -1,2 +1,2 @@
-# KolibriOS_v5362
-Fork of Kolibri OS version 5362 
+# KolibriOS_v5938
+Fork of Kolibri OS version 5938
